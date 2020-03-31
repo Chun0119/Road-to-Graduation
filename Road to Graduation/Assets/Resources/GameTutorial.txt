@@ -1,0 +1,71 @@
+Well, given how we must rely on you now, you better be good at what you are doing!
+Before we begin anything, let me introduce you the GPA system.
+GPA stands for Graduate Power Assessment.
+Without enough GPA, you are underqualified to wield certain skills, equipment, or be able to leave this place to challenge harder monsters.
+You can prove your ability as a savior by getting high GPA.
+This sounds oddly familiar does it not?
+Now, to increase your GPA, you need to do quizzes!
+They will be multiple choice questions, may luck be on your side.
+Let's try an example, shall we?
+Quiz
+So... what spells can you cast?
+Wait, what do you mean nothing??
+Are we really relying on you to save the world?
+Ugh, fine, let me teach you a basic skill in computer science.
+This skill is called print ("Hello, World!"), you will write codes as projectiles to fight off monsters.
+Usually you will learn new skills by passing quizzes, this one is free.
+Let's try this on practice targets, shall we?
+Monster1
+Great job, you see, now you have ability points!
+You may increase abilities by opening the ability window and clicking on the "+" signs.
+In fact, there are many other windows you can open to manage your possession.
+For examples, you can open your equipment window to view your equipment or inventory window to consume items by clicking on them.
+If they are consumerables, they will be used up to replenish your HP and MP.
+If they are equipment, you will be immediately equipped with them.
+Also, you can open your skill window to unlock skills and level up them by clicking on the "+" signs.
+Now, let's try it out!
+-
+Here, take some coins, you've earned it!
+That is all for now, I need to go back to take care of the refugees.
+Come back when you are level 7, good luck, mate!
+InstructorDeath
+Oh, truth to be told, I did not expect you to come this far.
+In the following levels, monsters will be much more fierce.
+They will track down where you are, and follow you until they could bite you to death or you could defeat them.
+Let's see if you can deal with one of them, shall we?
+Monster2
+Wow, you actually pull it off, nice job!
+But that is not all, different types of distractor will now start emerging and distrubing you as well.
+One of them is called the freerider curse, once they possessed you, your movement speed will be drastically lowered.
+Let's see its actual effects now, shall we?
+Freerider
+See? It makes you extremely susceptible to monsters' attack, so try your best not to be possessed.
+There's also another type of distractor called the couple.
+They will chase you until you are caught, and once that happens, you could not move for a couple of seconds.
+Let's examine its effects again, shall we?
+Girlfriend
+Same as the freerider curse, they make you extremely susceptible to monsters' attack.
+For the last practice, let's try what it will be like if monster and distractors appear at the same time, shall we?
+All
+That's all I can do to prepare you against the upcoming challenges, stay sharp, savior.
+InstructorDeath2
+In this stage, you are going to experience your first internship quest.
+This is your client, and you shall be trying your best to cater to his requirements.
+Here you go.
+So, you are the intern huh?
+Quiz2
+I would suggest you to treat experience the most important aspect.
+You better be prepared, There will be tons of work waiting for you ahead.
+Quiz3
+I really think you should try searching answers yourself, that is how you learn and progress.
+Then, let's see how will you perform in this internship.
+InstructorDeath3
+In this final stage, you will be experiencing your Final Year Project Simulation.
+You will need to find different items around the map to build and satisfy your FYP product.
+If you want to pick up the items, press C.
+Now, let's try to pick up all the items in this map.
+Items
+Great job! Now, for the last challenge, you will try defeating the EVIL PROFESSOR.
+Are you ready?
+Let's go!
+Professor

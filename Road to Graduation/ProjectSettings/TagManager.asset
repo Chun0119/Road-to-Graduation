@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - NPC
+  - Monster
+  - Skill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2326475647
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Weapons
+    uniqueID: 2916721695
+    locked: 0
+  - name: Body
+    uniqueID: 2535462909
+    locked: 0
+  - name: Clothes
+    uniqueID: 1925587275
+    locked: 0
+  - name: Shoes
+    uniqueID: 763510899
+    locked: 0
+  - name: Eyes
+    uniqueID: 1135324447
+    locked: 0
+  - name: Hair
+    uniqueID: 3778148089
+    locked: 0
+  - name: Hat
+    uniqueID: 4258870461
+    locked: 0
+  - name: On Screen
+    uniqueID: 1937812703
+    locked: 0
+  - name: Dialogue
+    uniqueID: 990218915
+    locked: 0
