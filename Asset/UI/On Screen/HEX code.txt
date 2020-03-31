@@ -1,7 +1,0 @@
-Nametag
- - LV: #3babdf
- - HP: #ff555
- - MP: #55c0ff
- - EXP: #ff7a0e
- - Name: #fffff
-
